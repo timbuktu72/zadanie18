@@ -1,0 +1,18 @@
+body {
+  background-color: papayawhip;  
+}
+
+h1 {
+    color: red;
+    text-align:left;
+}
+p {
+    text-align: left;
+    color: darksalmon;
+}
+
+p#drugi {
+    
+    color: blue;
+    
+}
